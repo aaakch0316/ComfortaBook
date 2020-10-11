@@ -1,4 +1,4 @@
-# :books: Comfortabook
+# :books: Comfortabook ![Generic badge](https://img.shields.io/badge/SSAFY-3기-blue.svg)  ![Generic badge](https://img.shields.io/badge/IT포트폴리오-1.0-blue.svg)
 <br>
 
 ## :closed_book: 프로젝트 소개
